@@ -26,6 +26,6 @@
 
 ### 1. Склонируй репозиторий:
 ```bash
-git clone https://github.com/ваш_логин/my-first-game.git 
-cd my-first-game
+git clone https://github.com/KaravanVI/Starship_Game.git
+cd Starship_Game
 
